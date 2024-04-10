@@ -17,7 +17,7 @@ function EmailSignupScreen({ setEmail, handleNext }) {
           <img src='https://img.icons8.com/?size=48&id=13927&format=png' alt="Logo" />
         </div>
         <h2><b>Discover the world's top <br/>Designer & Creatives.</b></h2>
-        <img src='https://ouch-cdn2.icons8.com/_UVOXhivvuKvB1pKMv-NHJa9lbK2w5nK-yrlIvOqHKs/rs:fit:368:292/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMzg5/LzM3MTlhZjQ5LWQ3/OTQtNDQ5MC05YzJk/LTNkOTg5OGUwNzM5/OS5wbmc.png' style={{ margin: '30px', padding: '10px' }} />
+        <img src='https://ouch-cdn2.icons8.com/_UVOXhivvuKvB1pKMv-NHJa9lbK2w5nK-yrlIvOqHKs/rs:fit:368:292/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMzg5/LzM3MTlhZjQ5LWQ3/OTQtNDQ5MC05YzJk/LTNkOTg5OGUwNzM5/OS5wbmc.png'alt='designer' style={{ margin: '30px', padding: '10px' }} />
 
       </div>
       <div className="form-box">
